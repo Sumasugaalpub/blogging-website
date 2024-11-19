@@ -1,3 +1,5 @@
+![Header Image](Screenshot%20(2302).png)
+
 # Blog Website
 
 A simple, yet fully functional **Blog Website** built using **HTML**, **CSS**, **JavaScript**, and **PHP**. This platform allows users to read articles, leave comments, and interact with the content. It includes an admin panel for managing blog posts and comments, making it a great starting point for creating a dynamic blog.
@@ -24,6 +26,5 @@ A simple, yet fully functional **Blog Website** built using **HTML**, **CSS**, *
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL (for storing blog posts, user comments, and user information)
-
 
 
